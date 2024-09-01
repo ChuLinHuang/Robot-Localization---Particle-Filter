@@ -1,1 +1,1 @@
-This project using the concept of the particle filter to localize the position of robot.
+This project uses the concept of a particle filter to localize the position of the robot.
